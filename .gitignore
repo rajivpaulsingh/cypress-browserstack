@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.vscode/
+cypress/screenshots
+cypress/videos
+mochawesome-report
+cypress-tests-report.html
+cypress/logs
+package-lock.json
+report
